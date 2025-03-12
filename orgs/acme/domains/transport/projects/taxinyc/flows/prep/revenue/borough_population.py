@@ -78,6 +78,18 @@ shutil.copyfile(local_csv_path, volume_csv_path)
 
 # COMMAND ----------
 
+local_csv_path
+
+# COMMAND ----------
+
+# MAGIC %pwd
+
+# COMMAND ----------
+
+volume_csv_path
+
+# COMMAND ----------
+
 pop_df = spark.read.option("header", True).csv(volume_csv_path)
 
 # COMMAND ----------

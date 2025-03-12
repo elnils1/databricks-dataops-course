@@ -17,3 +17,8 @@
 # MAGIC %md
 # MAGIC
 # MAGIC Answer here...
+# MAGIC
+# MAGIC transport.kristoffernilsen_featghkn1114bergen_0e7768a7_revenue.borough_population
+# MAGIC transport.kristoffernilsen_featghkn1114bergen_0e7768a7_revenue.revenue_by_borough
+# MAGIC transport.kristoffernilsen_featghkn1114bergen_0e7768a7_revenue.revenue_by_tripmonth
+# MAGIC transport.kristoffernilsen_featghkn1114bergen_0e7768a7_revenue.revenue_per_inhabitant

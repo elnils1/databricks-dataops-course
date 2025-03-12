@@ -26,6 +26,10 @@
 
 # COMMAND ----------
 
+
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC
 # MAGIC ## Task: Redeploy without changes
